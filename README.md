@@ -11,6 +11,17 @@ npx - 패지키 임시 설치 및 실행 등을 도와주는 npm 내부 스크�
 
 degit - 지정한 원격 저장소의 내용을 다운받을 수 있는 명령어 [참고 포스트](https://dreaming5developer.tistory.com/345)
 
+## Usage
+
+- Svelte
+- Snowpack
+- TypeScript
+- SCSS
+- Autoprefixer/PostCSS
+- Web test runner
+- Chai
+- Reset.css
+
 ### References
 
 [이효범 / **Sevelte 입문 강의 - A부터 Z까지**](https://www.inflearn.com/course/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%9E%85%EB%AC%B8)
@@ -28,3 +39,11 @@ degit - 지정한 원격 저장소의 내용을 다운받을 수 있는 명령�
 #### Log
 
 본 문서는 _2022년 3월 31일_ 에 작성되었습니다.
+
+#### 원본 링크
+
+[ParkYoungWoong / svelte-snowpack-template](https://github.com/ParkYoungWoong/svelte-snowpack-template)
+
+```
+npx degit ParkYoungWoong/svelte-snowpack-template ./ --force
+```
